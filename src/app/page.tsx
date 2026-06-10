@@ -4,6 +4,7 @@
 import { useState } from "react";
 import { useEffect } from "react";
 import ReadJson from "../componets/TimeTable";
+import TimeTable from "../componets/TimeTable";
 
 
 export default function TrainPage() {
@@ -29,14 +30,13 @@ export default function TrainPage() {
         <div className="w-full max-w-3xl px-6 py-14">
           <h1 className="text-3xl font-bold mb-4">Train Page</h1>
 
-          <p className="mb-2">Welcome to the Train Page</p>
-          <p className="mb-8">This is a simple train page component.</p>
+         
           <div className="text-center mt-4">
             <h1 className="text-2xl font-semibold mb-5">現在時刻: {currentTime}</h1>
           </div>
-        </div>
-        <div className="w-full max-w-3xl px-6 py-14">
-          <ReadJson />
+        
+        
+          <TimeTable currentDate={new Date()} />
         </div>
         
       </main>

@@ -1,24 +1,38 @@
 import React from "react";
 import Code from "../../data/TimeTable.json";
 
-export const ReadJson: React.FC = () => {
-  const cdList: React.ReactNode[] = [];
+type ReadJsonProps = {
+  currentDate: Date;
+};
 
-  for (const cdNo in Code) {
-    for (const cd in Code[cdNo as keyof typeof Code]) {
-      cdList.push(
-        <div key={`${cdNo}-${cd}`}>
-          {`${cdNo}-${cd}-${
-            Code[cdNo as keyof typeof Code][
-              cd as keyof (typeof Code)[keyof typeof Code]
-            ]
-          }`}
-        </div>
-      );
-    }
+export const ReadJson: React.FC<ReadJsonProps> = ({
+  currentDate,
+}) => {
+  const hour = currentDate.getHours();
+
+  let targetCd: keyof typeof Code;
+
+  if (hour < 10) {
+    targetCd = "CD001";
+  } else if (hour < 16) {
+    targetCd = "CD002";
+  } else {
+    targetCd = "CD003";
   }
 
-  return <>{cdList}</>;
+  const train = Code[targetCd];
+
+  return (
+    <div className="space-y-2">
+      <h2 className="text-xl font-bold">
+        現在表示中: {targetCd}
+      </h2>
+
+      <div>列車名: {train.NAME}</div>
+
+      <div>行先: {train.SUPP}</div>
+    </div>
+  );
 };
 
 export default ReadJson;
