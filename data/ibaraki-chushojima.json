@@ -1,0 +1,115 @@
+{
+ "15:12": {
+    "arrival": "16:30",
+    "attention": "none"
+  },
+  "15:22": {
+    "arrival": "16:41",
+    "attention": "none"
+  },
+  "15:37": {
+    "arrival": "16:52",
+    "attention": "none"
+  },
+  
+  "15:52":{
+    "arrival": "17:05",
+    "attention": "none"
+  },
+  "16:07":{
+    "arrival": "17:20",
+    "attention": "none"
+  },
+  "16:12":{
+    "arrival": "17:30",
+    "attention": "none"
+  },
+  "16:43":{
+    "arrival": "17:55",
+    "attention": "none"
+  },
+  "16:52":{
+    "arrival": "18:10",
+    "attention": "none"
+  },
+  "16:58":{
+    "arrival": "18:20",
+    "attention": "none"
+  },
+  "17:28":{
+    "arrival": "18:42",
+    "attention": "none"
+  },
+  "17:43":{
+    "arrival": "18:55",
+    "attention": "none"
+  },
+  "17:52":{
+    "arrival": "19:01",
+    "attention": "伏見稲荷乗り換え"
+  },
+  "17:58":{
+    "arrival": "19:17",
+    "attention": "none"
+  },
+  "18:13":{
+    "arrival": "19:30",
+    "attention": "none"
+  },
+  "18:28":{
+    "arrival": "19:41",
+    "attention": "none"
+  },
+  "18:44":{
+    "arrival": "19:44",
+    "attention": "高槻・伏見稲荷乗り換え"
+  },
+  "18:53":{
+    "arrival": "20:05",
+    "attention": "none"
+  },
+  "18:59":{
+    "arrival": "10:17",
+    "attention": "none"
+  },
+  "19:13":{
+    "arrival": "10:30",
+    "attention": "高槻・伏見稲荷乗り換え"
+  },
+  "19:28":{
+    "arrival": "20:42",
+    "attention": "高槻乗り換え"
+  },
+  "19:52":{
+    "arrival": "21:06",
+    "attention": "none"
+  },
+  "19:58":{
+    "arrival": "21:18",
+    "attention": "none"
+  },
+  "20:13":{
+    "arrival": "21:31",
+    "attention": "none"
+  },
+  "20:28":{
+    "arrival": "21:43",
+    "attention": "none"
+  },
+  "20:58":{
+    "arrival": "22:10",
+    "attention": "none"
+  },
+  "21:07":{
+    "arrival": "22:26",
+    "attention": "none"
+  },
+  "21:28":{
+    "arrival": "22:43",
+    "attention": "none"
+  },
+  "21:58":{
+    "arrival": "23:14",
+    "attention": "丹波橋乗り換え"
+  }
+}

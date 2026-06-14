@@ -1,0 +1,243 @@
+{
+  "15:04":{
+    "arrival": "15:06",
+    "keihan dep": "15:13",
+    "waiting": "7min"
+  },
+  "15:15":{
+    "arrival": "15:17",
+    "keihan dep": "15:25",
+    "waiting": "8min"
+  },
+    "15:27":{
+    "arrival": "15:29",
+    "keihan dep": "15:36",
+    "waiting": "7min"
+  }, 
+    "15:34":{
+    "arrival": "15:36",
+    "keihan dep": "15:48",
+    "waiting": "12min"
+  },
+    "15:45":{
+    "arrival": "15:47",
+    "keihan dep": "15:57",
+    "waiting": "10min"
+  },
+    "15:57":{
+    "arrival": "15:59",
+    "keihan dep": "16:11",
+    "waiting": "12min"
+  },
+    "16:04":{
+    "arrival": "16:06",
+    "keihan dep": "16:11",
+    "waiting": "5min"
+  },
+      "16:15":{
+    "arrival": "16:17",
+    "keihan dep": "16:22",
+    "waiting": "5min"
+  },
+      "16:27":{
+    "arrival": "16:29",
+    "keihan dep": "16:33",
+    "waiting": "4min"
+  },
+      "16:34":{
+    "arrival": "16:36",
+    "keihan dep": "16:45",
+    "waiting": "9min"
+  },
+      "16:44":{
+    "arrival": "16:47",
+    "keihan dep": "16:57",
+    "waiting": "10min"
+  },
+      "16:57":{
+    "arrival": "16:59",
+    "keihan dep": "16:11",
+    "waiting": "12min"
+  },
+      "17:03":{
+    "arrival": "17:06",
+    "keihan dep": "17:11",
+    "waiting": "5min"
+  },
+        "17:11":{
+    "arrival": "17:13",
+    "keihan dep": "17:23",
+    "waiting": "10min"
+  },
+        "17:26":{
+    "arrival": "17:28",
+    "keihan dep": "17:35",
+    "waiting": "7min"
+  },
+        "17:33":{
+    "arrival": "17:36",
+    "keihan dep": "17:47",
+    "waiting": "9min"
+  },
+        "17:41":{
+    "arrival": "17:43",
+    "keihan dep": "17:47",
+    "waiting": "4min"
+  },
+        "17:56":{
+    "arrival": "17:58",
+    "keihan dep": "18:10",
+    "waiting": "12min"
+  },
+   "18:03":{
+    "arrival": "18:06",
+    "keihan dep": "18:10",
+    "waiting": "4min"
+  },
+     "18:11":{
+    "arrival": "18:13",
+    "keihan dep": "18:23",
+    "waiting": "10min"
+  },
+     "18:26":{
+    "arrival": "18:28",
+    "keihan dep": "18:34",
+    "waiting": "6min"
+  },
+     "18:33":{
+    "arrival": "18:36",
+    "keihan dep": "18:45",
+    "waiting": "9min"
+  },
+     "18:41":{
+    "arrival": "18:43",
+    "keihan dep": "18:59",
+    "waiting": "16min"
+  },
+     "18:56":{
+    "arrival": "18:58",
+    "keihan dep": "19:08",
+    "waiting": "10min"
+  },
+     "19:03":{
+    "arrival": "19:06",
+    "keihan dep": "19:20",
+    "waiting": "14min"
+  },
+       "19:11":{
+    "arrival": "19:13",
+    "keihan dep": "19:20",
+    "waiting": "14min"
+  },
+       "19:23":{
+    "arrival": "19:25",
+    "keihan dep": "19:32",
+    "waiting": "7min"
+  },
+       "19:33":{
+    "arrival": "19:36",
+    "keihan dep": "19:44",
+    "waiting": "8min"
+  },   
+    "19:40":{
+    "arrival": "19:42",
+    "keihan dep": "19:58",
+    "waiting": "16min"
+  },
+       "19:53":{
+    "arrival": "19:56",
+    "keihan dep": "20:08",
+    "waiting": "12min"
+  },
+         "20:05":{
+    "arrival": "20:07",
+    "keihan dep": "20:22",
+    "waiting": "15min"
+  },
+           "20:09":{
+    "arrival": "20:12",
+    "keihan dep": "20:22",
+    "waiting": "10min"
+  },
+           "20:24":{
+    "arrival": "20:27",
+    "keihan dep": "20:34",
+    "waiting": "7min"
+  },
+           "20:35":{
+    "arrival": "20:38",
+    "keihan dep": "20:46",
+    "waiting": "8min"
+  },
+           "20:41":{
+    "arrival": "20:44",
+    "keihan dep": "20:58",
+    "waiting": "14min"
+  },
+           "20:56":{
+    "arrival": "20:59",
+    "keihan dep": "21:09",
+    "waiting": "10min"
+  },
+           "21:05":{
+    "arrival": "21:08",
+    "keihan dep": "21:24",
+    "waiting": "16min"
+  },
+           "21:13":{
+    "arrival": "21:16",
+    "keihan dep": "21:24",
+    "waiting": "8min"
+  },
+             "21:28":{
+    "arrival": "21:31",
+    "keihan dep": "21:36",
+    "waiting": "5min"
+  },
+             "21:36":{
+    "arrival": "21:38",
+    "keihan dep": "21:52",
+    "waiting": "14min"
+  },
+             "21:48":{
+    "arrival": "21:51",
+    "keihan dep": "22:05",
+    "waiting": "14min"
+  },
+             "22:02":{
+    "arrival": "22:04",
+    "keihan dep": "22:22",
+    "waiting": "18min"
+  },
+              "22:12":{
+    "arrival": "22:15",
+    "keihan dep": "22:22",
+    "waiting": "7min"
+  },
+               "22:32":{
+    "arrival": "22:35",
+    "keihan dep": "22:40",
+    "waiting": "5min"
+  },
+               "22:43":{
+    "arrival": "22:46",
+    "keihan dep": "22:56",
+    "waiting": "10min"
+  },
+               "22:56":{
+    "arrival": "22:59",
+    "keihan dep": "23:15",
+    "waiting": "16min"
+  },
+               "23:19":{
+    "arrival": "23:22",
+    "keihan dep": "23:35",
+    "waiting": "13min"
+  },
+                 "23:46":{
+    "arrival": "23:49",
+    "keihan dep": "23:52",
+    "waiting": "3min"
+  }
+
+}

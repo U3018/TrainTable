@@ -34,6 +34,14 @@ export default function TrainPage() {
           <div className="text-center mt-4">
             <h1 className="text-2xl font-semibold mb-5">現在時刻: {currentTime}</h1>
           </div>
+          <div className="text-xl font-bold mb-4">
+          <h2>
+            茨木→中書島（東福寺経由）
+          </h2>
+          <p>丹波橋での特急乗り換えはなし</p>
+          <p>東福寺は京阪乗り換え効率優先表示・乗り換えはいけそうなもののみ</p>
+          </div>
+
         
         
           <TimeTable currentDate={new Date()} />
