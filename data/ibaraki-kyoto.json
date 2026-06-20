@@ -1,0 +1,295 @@
+{
+  "15:04":{
+    "arrival":"15:29",
+    "attention":"高槻乗り換え"
+},
+  "15:07":{
+    "arrival":"15:35",
+    "attention":"none"
+},
+  "15:12":{
+    "arrival":"15:42",
+    "attention":"none"
+},
+  "15:19":{
+    "arrival":"15:44",
+    "attention":"高槻乗り換え"
+},
+  "15:22":{
+    "arrival":"15:50",
+    "attention":"none"
+},
+  "15:27":{
+    "arrival":"15:57",
+    "attention":"none"
+},
+  "15:34":{
+    "arrival":"15:59",
+    "attention":"高槻乗り換え"
+},
+  "15:37":{
+    "arrival":"16:05",
+    "attention":"none"
+},
+   "15:42":{
+    "arrival":"16:12",
+    "attention":"none"
+},
+  "15:49":{
+    "arrival":"16:14",
+    "attention":"高槻乗り換え"
+},
+  "15:52":{
+    "arrival":"16:20",
+    "attention":"none"
+},
+  "15:57":{
+    "arrival":"16:27",
+    "attention":"none"
+},
+  "16:07":{
+    "arrival":"16:29",
+    "attention":"高槻乗り換え"
+},
+  "16:12":{
+    "arrival":"16:42",
+    "attention":"none"
+},
+  "16:19":{
+    "arrival":"16:44",
+    "attention":"高槻乗り換え"
+},
+  "16:22":{
+    "arrival":"16:51",
+    "attention":"none"
+},
+  "16:34":{
+    "arrival":"16:59",
+    "attention":"高槻乗り換え"
+},
+  "16:37":{
+    "arrival":"17:06",
+    "attention":"none"
+},
+  "16:49":{
+    "arrival":"17:14",
+    "attention":"高槻乗り換え"
+},
+  "16:52":{
+    "arrival":"17:21",
+    "attention":"none"
+},
+  "17:04":{
+    "arrival":"17:29",
+    "attention":"高槻乗り換え"
+},
+  "17:07":{
+    "arrival":"17:36",
+    "attention":"none"
+},
+  "17:19":{
+    "arrival":"17:44",
+    "attention":"高槻乗り換え"
+},
+  "17:22":{
+    "arrival":"17:52",
+    "attention":"none"
+},
+  "17:34":{
+    "arrival":"17:59",
+    "attention":"高槻乗り換え"
+},
+  "17:37":{
+    "arrival":"18:07",
+    "attention":"none"
+},
+  "17:49":{
+    "arrival":"18:14",
+    "attention":"高槻乗り換え"
+},
+  "17:52":{
+    "arrival":"18:22",
+    "attention":"none"
+},
+  "18:04":{
+    "arrival":"18:29",
+    "attention":"高槻乗り換え"
+},
+  "18:07":{
+    "arrival":"18:37",
+    "attention":"none"
+},
+  "18:19":{
+    "arrival":"18:44",
+    "attention":"高槻乗り換え"
+},
+  "18:22":{
+    "arrival":"18:52",
+    "attention":"none"
+},
+  "18:34":{
+    "arrival":"18:59",
+    "attention":"高槻乗り換え"
+},
+  "18:38":{
+    "arrival":"19:07",
+    "attention":"none"
+},
+  "18:49":{
+    "arrival":"19:14",
+    "attention":"高槻乗り換え"
+},
+  "18:53":{
+    "arrival":"19:22",
+    "attention":"none"
+},
+  "19:04":{
+    "arrival":"19:29",
+    "attention":"高槻乗り換え"
+},
+  "19:07":{
+    "arrival":"19:37",
+    "attention":"none"
+},
+  "19:19":{
+    "arrival":"19:44",
+    "attention":"高槻乗り換え"
+},
+  "19:22":{
+    "arrival":"19:52",
+    "attention":"none"
+},
+  "19:34":{
+    "arrival":"19:59",
+    "attention":"高槻乗り換え"
+},
+  "19:37":{
+    "arrival":"20:07",
+    "attention":"none"
+},
+  "19:49":{
+    "arrival":"20:14",
+    "attention":"高槻乗り換え"
+},
+  "19:52":{
+    "arrival":"20:22",
+    "attention":"none"
+},
+  "20:04":{
+    "arrival":"20:29",
+    "attention":"高槻乗り換え"
+},
+  "20:07":{
+    "arrival":"20:37",
+    "attention":"none"
+},
+  "20:19":{
+    "arrival":"20:44",
+    "attention":"高槻乗り換え"
+},
+  "20:22":{
+    "arrival":"20:52",
+    "attention":"none"
+},
+  "20:34":{
+    "arrival":"20:59",
+    "attention":"高槻乗り換え"
+},
+  "20:37":{
+    "arrival":"21:07",
+    "attention":"none"
+},
+  "20:49":{
+    "arrival":"21:14",
+    "attention":"高槻乗り換え"
+},
+  "20:52":{
+    "arrival":"21:22",
+    "attention":"none"
+},
+  "21:04":{
+    "arrival":"21:29",
+    "attention":"高槻乗り換え"
+},
+  "21:07":{
+    "arrival":"21:37",
+    "attention":"none"
+},
+  "21:13":{
+    "arrival":"21:43",
+    "attention":"none"
+},
+  "21:19":{
+    "arrival":"21:44",
+    "attention":"高槻乗り換え"
+},
+  "21:22":{
+    "arrival":"21:52",
+    "attention":"none"
+},
+  "21:28":{
+    "arrival":"21:58",
+    "attention":"none"
+},
+  "21:34":{
+    "arrival":"21:59",
+    "attention":"高槻乗り換え"
+},
+  "21:37":{
+    "arrival":"22:07",
+    "attention":"none"
+},
+  "21:43":{
+    "arrival":"22:13",
+    "attention":"none"
+},
+  "21:49":{
+    "arrival":"22:14",
+    "attention":"高槻乗り換え"
+},
+  "21:52":{
+    "arrival":"22:22",
+    "attention":"none"
+},
+  "21:58":{
+    "arrival":"22:28",
+    "attention":"none"
+},
+  "22:04":{
+    "arrival":"22:29",
+    "attention":"高槻乗り換え"
+},
+  "22:07":{
+    "arrival":"22:37",
+    "attention":"none"
+},
+  "22:13":{
+    "arrival":"22:43",
+    "attention":"none"
+},
+  "22:24":{
+    "arrival":"22:49",
+    "attention":"高槻乗り換え"
+},
+  "22:30":{
+    "arrival":"23:01",
+    "attention":"none"
+},
+  "22:44":{
+    "arrival":"23:09",
+    "attention":"高槻乗り換え"
+},
+  "22:50":{
+    "arrival":"23:21",
+    "attention":"none"
+},
+  "23:04":{
+    "arrival":"23:29",
+    "attention":"高槻乗り換え"
+},
+  "23:10":{
+    "arrival":"23:41",
+    "attention":"none"
+}
+
+}
