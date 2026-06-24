@@ -57,18 +57,17 @@ export default function TimeTable() {
     return times.find((trainTime) => trainTime >= time);
   };
 
-const toMinutes = (time: string) => {
-  const [h = 0, m = 0] =
-    time.split(":").map(Number);
+  const toMinutes = (time: string) => {
+    const [h = 0, m = 0] = time.split(":").map(Number);
 
-  let minutes = h * 60 + m;
+    let minutes = h * 60 + m;
 
-  if (h < 3) {
-    minutes += 24 * 60;
-  }
+    if (h < 3) {
+      minutes += 24 * 60;
+    }
 
-  return minutes;
-};
+    return minutes;
+  };
 
   const findNextRoute = (time: string) => {
     const jrTimes = Object.keys(data3).sort((a, b) => toMinutes(a) - toMinutes(b));
@@ -121,21 +120,23 @@ const toMinutes = (time: string) => {
     <div className="flex flex-col items-center min-h-screen p-6 bg-gray-50">
       <h1 className="text-5xl font-bold text-center mb-4">現在時刻: {currentTime}</h1>
 
-      <div className="w-full max-w-md mb-8">
-        <label className="block text-lg font-semibold mb-2">何分後に出発する？</label>
+      <div className="sticky top-0 z-50 w-full bg-gray-50 py-4">
+        <div className="max-w-md mx-auto">
+          <label className="block text-lg font-semibold mb-2">何分後に出発する？</label>
 
-        <input
-          type="range"
-          min="0"
-          max="60"
-          value={delayMinutes}
-          onChange={(e) => setDelayMinutes(Number(e.target.value))}
-          className="w-full"
-        />
+          <input
+            type="range"
+            min="0"
+            max="60"
+            value={delayMinutes}
+            onChange={(e) => setDelayMinutes(Number(e.target.value))}
+            className="w-full"
+          />
 
-        <p className="text-center text-xl mt-2">
-          {delayMinutes}分後 →<span className="font-bold text-red-500 ml-2">{delayedTime}</span>
-        </p>
+          <p className="text-center text-xl mt-2">
+            {delayMinutes}分後 →<span className="font-bold text-red-500 ml-2">{delayedTime}</span>
+          </p>
+        </div>
       </div>
 
       <div className="w-full max-w-2xl border-2 border-blue-500 rounded-xl p-6 shadow-lg bg-white mb-8">
